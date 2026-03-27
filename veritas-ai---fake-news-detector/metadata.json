@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI - Fake News Detector",
+  "description": "An AI-powered platform to analyze news credibility using advanced language models and real-time verification.",
+  "requestFramePermissions": []
+}
