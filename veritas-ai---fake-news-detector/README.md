@@ -53,34 +53,7 @@ cd veritas-ai---fake news-detector
 
 # Start the development server
 npm start
-Project Structure
 
-veritas-ai-fake-news-detector/
-│
-├── src/
-│   ├── pages/
-│   │   ├── About.tsx        # About page
-│   │   ├── Analyzer.tsx     # Main AI analysis page
-│   │   ├── History.tsx      # Previously analyzed news
-│   │   └── Home.tsx         # Landing page
-│   │
-│   ├── services/
-│   │   └── ai.ts            # Gemini API integration
-│   │
-│   ├── App.tsx              # Main app component
-│   ├── main.tsx             # Entry point
-│   └── index.css            # Tailwind CSS styles
-│
-├── index.html               # Root HTML file
-├── server.ts                # Backend server (Node/Express)
-├── metadata.json            # Project metadata
-├── package.json             # Project dependencies
-├── package-lock.json        # Dependency lock file
-├── tsconfig.json            # TypeScript configuration
-├── vite.config.ts           # Vite configuration
-├── README.md                # Project documentation
-│
-└── screenshots/             # (Optional) App images for README
 
 
 # Future Enhancements
